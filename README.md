@@ -445,7 +445,7 @@ Stakeholders, developers, and designers are aligned around a shared understandin
 
 ## 12. What data is available regarding the market size and growth potential for your software?
 
-**Answer:**  **Africa's energy sector** is undergoing a significant transformation, characterized by a shift toward renewable energy sources and an increasing emphasis on energy efficiency. This evolution presents substantial opportunities for energy management software solutions tailored to the continent's unique needs.
+**Answer:**  **Africa's energy sector** is undergoing a significant transformation, characterized by a shift toward renewable energy sources and an increasing emphasis on energy efficiency. This evolution presents substantial opportunities for energy management software solutions tailored to the continent's unique needs.
 
 **Market Size and Growth Potential:**
 
