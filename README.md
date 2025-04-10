@@ -445,9 +445,15 @@ Stakeholders, developers, and designers are aligned around a shared understandin
 
 ## 12. What data is available regarding the market size and growth potential for your software?
 
-**Answer:**  
+**Answer:**  **Africa's energy sector** is undergoing a significant transformation, characterized by a shift toward renewable energy sources and an increasing emphasis on energy efficiency. This evolution presents substantial opportunities for energy management software solutions tailored to the continent's unique needs.
 
+**Market Size and Growth Potential:**
 
+- **Renewable Energy Expansion:** Africa is poised to dramatically expand its clean power capacity, with projections indicating a 278% increase in clean power capacity.
+
+- **Nigeria's Renewable Energy Market:** In Nigeria, the renewable energy sector is experiencing notable growth, driven by efforts to diversify the energy mix and improve access to electricity.
+
+- **Energy Management Systems in MEA:** The Middle East and Africa (MEA) region is witnessing a growing adoption of energy management systems, with key players such as Rockwell Automation Inc., Honeywell International Inc., and Schneider Electric SE actively participating in the market.
 
 ## 13. How can understanding market trends inform your software’s positioning and development? 
 
